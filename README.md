@@ -1,17 +1,17 @@
-TCP
+**TCP**
 
-Terminal 1:
-python tcp_server.py
+**Terminal 1:**
+- python tcp_server.py
 
-Terminal 2:
-python tcp_client.py
+**Terminal 2:**
+- python tcp_client.py
 
-UDP
+**UDP**
 
-Terminal 1:
+**Terminal 1:**
 python udp_server.py
 
-Terminal 2:
+**Terminal 2:**
 python udp_client.py
 
 
